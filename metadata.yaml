@@ -1,0 +1,26 @@
+_repo: Awful-Disclosures-of-the-Hotel-Dieu-Nunnery-of-Montreal-Containing-Also-Many-Incidents-Never-b__8095
+creator:
+  author:
+    agent_name: Monk, Maria
+    birthdate: 1816
+    deathdate: 1849
+    gutenberg_agent_id: '2638'
+    url: http://www.gutenberg.org/2009/agents/2638
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Monk
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hôtel-Dieu de Montréal -- Biography'
+- !lcc 'BX'
+- !lcsh 'Monk, Maria, 1816-1849'
+- !lcsh 'Ex-nuns -- Québec (Province) -- Biography'
+title: "Awful Disclosures of the Hotel Dieu Nunnery of Montreal\r\nContaining, Also,\
+  \ Many Incidents Never before Published"
+url: http://www.gutenberg.org/ebooks/8095
